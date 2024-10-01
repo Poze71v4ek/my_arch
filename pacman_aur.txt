@@ -1,0 +1,6 @@
+asusctl
+asusctl-debug
+hyprshot
+rog-control-center
+yay
+yay-debug
